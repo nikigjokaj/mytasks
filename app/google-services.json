@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "188907003613",
+    "firebase_url": "https://mytasks-fccab.firebaseio.com",
+    "project_id": "mytasks-fccab",
+    "storage_bucket": "mytasks-fccab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188907003613:android:595b5a5cbf93b8ca88c534",
+        "android_client_info": {
+          "package_name": "com.codebee.mytasks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188907003613-so63ru6493uannn5pm55k403l9ip0vaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codebee.mytasks",
+            "certificate_hash": "91f6af9b3a1e88383f5b76645391c28d78e065f5"
+          }
+        },
+        {
+          "client_id": "188907003613-dsp1lme4v8c1qqjl3ofhd9l8hs5r8843.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChxDrL56EDtLeR4gr0d5mlj_sKMq6N0rI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188907003613-dsp1lme4v8c1qqjl3ofhd9l8hs5r8843.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
